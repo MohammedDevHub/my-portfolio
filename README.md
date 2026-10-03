@@ -82,7 +82,7 @@ After pushing the project, enable **GitHub Actions** as the source under:
 
 **Settings → Pages → Build and deployment**
 
-## 📝 Notes
+##  Notes
 
 * All paths inside `index.html` are relative, so the website works correctly with GitHub Pages repository URLs.
 * Do **not** delete the `.github/workflows` folder. It contains the workflow responsible for automatic deployment.
